@@ -1,1 +1,1 @@
-Free Code Camp Product Landing Page Project
+fcc-product-landing-page
